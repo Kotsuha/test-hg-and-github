@@ -46,4 +46,4 @@
       ├ library.zip.bak // Just a backup
       ```
 
-7. `outgoing` or `push` works now. Repo pushed to GitHub successfully.
+7. `outgoing` and `push` works now. Repo pushed to GitHub successfully.
