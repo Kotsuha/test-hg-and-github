@@ -35,7 +35,7 @@
     > 
     > For the people who are like me searching for a solution - I’ve crafted the library.zip specifically for 5.0.2 using the instructions from @vitidev . “Plug and play”. Just unpack the ZIP into your TortoiseHG folder. https://drive.google.com/open?id=1vHV8ObokiOkYSorZJZqFHEgvtcLIVSe3
     > 
-    >     2019-10-19
+    > 2019-10-19
 
     * Download the link above. Extract and overwrite.
 
@@ -43,7 +43,7 @@
       Program Files\TortoiseHg\lib\
       ├ cacert.pem
       ├ library.zip
-      ├ library.zip.bak
+      ├ library.zip.bak // Just a backup
       ```
 
 7. `outgoing` or `push` works now. Repo pushed to GitHub successfully.
